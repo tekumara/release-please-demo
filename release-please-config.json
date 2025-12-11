@@ -10,7 +10,7 @@
   "packages": {
     ".": {
       "release-type": "simple",
-      "pull-request-header": "## Release ${version}\n\nThis PR prepares the release of version ${version}. Woo hoo!"
+      "pull-request-footer": "**Footer:** Additional information or notes can go here."
     }
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
